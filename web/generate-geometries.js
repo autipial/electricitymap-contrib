@@ -605,7 +605,7 @@ const zoneDefinitions = [
   { zoneName: 'SJ', type: 'country', id: 'SJM'},
   { zoneName: 'SK', type: 'country', id: 'SVK'},
   { zoneName: 'SL', type: 'country', id: 'SLE'},
-  { zoneName: 'SM', type: 'country', id: 'SMR'},
+  { zoneName: 'SM', type: 'country', id: 'SMR', moreDetails: true},
   { zoneName: 'SN', type: 'country', id: 'SEN'},
   { zoneName: 'SO', type: 'countries', countries: ['SOL', 'SOM']},
   { zoneName: 'SR', type: 'country', id: 'SUR'},
