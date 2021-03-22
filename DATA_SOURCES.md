@@ -307,6 +307,7 @@ For many European countries, data is available from [ENTSO-E](https://transparen
   - Nuclear: [Nuclearelectrica](http://www.nuclearelectrica.ro/cne/)
   - Other: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show)
 - Russia: [Minenergo](https://minenergo.gov.ru/node/532)
+- San Marino: [AASS](https://www.aass.sm/site/home/elettricita/energie-rinnovabili/produzione-fotovoltaica-nella-repubblica-di-san-marino.html)
 - Serbia: [ENTSO-E](https://transparency.entsoe.eu/generation/r2/installedGenerationCapacityAggregation/show?)
 - Singapore
   - Solar: [Energy Market Authority Statistics](https://www.ema.gov.sg/statistic.aspx?sta_sid=20170711hc85chOLVvWp)

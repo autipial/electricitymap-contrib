@@ -4736,6 +4736,25 @@
     },
     "timezone": "Europe/Bratislava"
   },
+  "SM": {
+    "bounding_box": [
+      [
+        11.885628745000105,
+        43.392055514999996
+      ],
+      [
+        12.992392254000094,
+        44.48256678600008
+      ]
+    ],
+    "capacity": {
+      "solar": 11.963
+    },
+    "contributors": [
+      "https://github.com/autipial"
+    ],
+    "timezone": "Europe/San_Marino"
+  },
   "SV": {
     "bounding_box": [
       [
